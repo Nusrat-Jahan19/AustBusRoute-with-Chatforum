@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "211873495557",
+    "firebase_url": "https://chatforum-4d061.firebaseio.com",
+    "project_id": "chatforum-4d061",
+    "storage_bucket": "chatforum-4d061.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211873495557:android:657a555237a5b1886efa6c",
+        "android_client_info": {
+          "package_name": "com.example.chatforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211873495557-ildg3mtl2ngb8nt02kdjpu8mb0tnrdi3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatforum",
+            "certificate_hash": "0d3142e3df55c33b4690f1c8d79fd117769f1ff3"
+          }
+        },
+        {
+          "client_id": "211873495557-hl03kdatgco5co7ful7mj02jkt3uolcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAc34k-7dBiRWDBViSzOeNjOLLpDBqEMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211873495557-hl03kdatgco5co7ful7mj02jkt3uolcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

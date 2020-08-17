@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "64687288084",
+    "firebase_url": "https://chatting-forum-51815.firebaseio.com",
+    "project_id": "chatting-forum-51815",
+    "storage_bucket": "chatting-forum-51815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64687288084:android:92aa5980a57784966edc01",
+        "android_client_info": {
+          "package_name": "com.example.chatforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64687288084-mhk09ga89pqgn3odqkodu12dikdvk4t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr-tz5rZTESpvR8FVzkfqa6JOTbOlYnxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64687288084-mhk09ga89pqgn3odqkodu12dikdvk4t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

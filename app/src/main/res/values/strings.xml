@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">chatforum</string>
+    <string name="en">Enter Message</string>
+    <string name="random">Random Text</string>
+</resources>
